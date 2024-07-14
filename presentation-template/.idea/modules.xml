@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../configuration-template/configuration-template.iml" filepath="$PROJECT_DIR$/../configuration-template/configuration-template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../core-template/core-template.iml" filepath="$PROJECT_DIR$/../core-template/core-template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../infrastructure-template/infrastructure-template.iml" filepath="$PROJECT_DIR$/../infrastructure-template/infrastructure-template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/presentation-template.iml" filepath="$PROJECT_DIR$/presentation-template.iml" />
+    </modules>
+  </component>
+</project>
